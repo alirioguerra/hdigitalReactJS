@@ -1,0 +1,6 @@
+export const SIGN_UP = '/cadastrar'
+export const SIGN_IN = '/entrar'
+export const HOME = '/'
+export const ACCOUNT = '/minhaconta'
+export const ADMIN = '/administrativo'
+export const PASSWORD_FORGET = '/recuperar-senha'
